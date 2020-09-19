@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialMaelyZambrana", "ParcialMaelyZambrana\ParcialMaelyZambrana.csproj", "{18A96643-8FCD-4208-BF07-406BB4456055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestParcial1", "UnitTestParcial1\UnitTestParcial1.csproj", "{0C5A2B70-7176-433A-9C33-5F5F89474BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A96643-8FCD-4208-BF07-406BB4456055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A96643-8FCD-4208-BF07-406BB4456055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A96643-8FCD-4208-BF07-406BB4456055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A96643-8FCD-4208-BF07-406BB4456055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5A2B70-7176-433A-9C33-5F5F89474BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5A2B70-7176-433A-9C33-5F5F89474BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5A2B70-7176-433A-9C33-5F5F89474BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5A2B70-7176-433A-9C33-5F5F89474BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86D68785-E17B-43D6-AF91-FB345D806AD7}
+	EndGlobalSection
+EndGlobal
